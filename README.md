@@ -1,6 +1,5 @@
 # DSJefferssonPretell
-MI camino a desarrollador como científico de datos
-¡Claro! Aquí tienes una versión más creativa para tu repositorio de GitHub:
+MI camino a desarrollador como científico de datos:
 
 ---
 
