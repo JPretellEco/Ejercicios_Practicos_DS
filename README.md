@@ -2,7 +2,7 @@
 
 # DSJefferssonPretell
 MI camino a desarrollador como científico de datos:
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=github&logoColor=red)
+
 
 ---
 
