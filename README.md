@@ -1,9 +1,11 @@
+![BANNER GIT](https://github.com/user-attachments/assets/36b9346b-df80-4973-8b59-c9dfedb1e3ef)
+
 # DSJefferssonPretell
 MI camino a desarrollador como científico de datos:
 
 ---
 
-# 🚗🔮 **Predicción de Siniestros en Seguros: Un Caso Empresarial Ficticio**
+# 🚗🔮 **Predicción de Siniestros en Seguros: Un Caso Empresarial **
 
 ### **Descripción del Proyecto**
 Bienvenidos a un desafío clave que enfrenta una gran aseguradora: **predecir siniestros** antes de que ocurran. Imagina que eres un científico de datos en el equipo de esta aseguradora y tienes la misión de identificar a los clientes más propensos a tener siniestros. ¿El objetivo? Optimizar la **gestión de riesgos**, mejorar la **suscripción de pólizas** y ajustar los **precios de las primas** de forma más precisa.
